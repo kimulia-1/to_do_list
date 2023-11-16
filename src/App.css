@@ -19,3 +19,19 @@
 .App > div > ul > li {
   list-style-type: none;
 }
+
+.error {
+  border: 1px solid red;
+}
+.error-message {
+  color: red;
+}
+
+.active-filter {
+  background-color: #2B6CC4;
+  color: white;
+}
+
+.isDone {
+  opacity: 0.5;
+}
